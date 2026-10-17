@@ -1,0 +1,6 @@
+{
+  "name": "CareerPilot AI",
+  "description": "Interactive job search and career platform for B.Tech CSE Cybersecurity students with dual career modes, 12+ smart filters, company discovery, and application tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
